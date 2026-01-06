@@ -50,7 +50,7 @@ const playGame=(userChoice)=>{
         }
         else if(userChoice==="paper")
         {
-            userWin= (comChoice==="rock")?false:true;
+            userWin= (comChoice==="scissors")?false:true;
         }else{
             userWin=(comChoice==="rock")?false:true;
         }

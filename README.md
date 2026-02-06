@@ -29,4 +29,4 @@ This project was created to practice basic frontend concepts and JavaScript logi
 ## 📸 Screenshot
 *(You can add a screenshot here later)*  
 ```md
-(screenshot.png)
+(rps.jpeg)

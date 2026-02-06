@@ -27,6 +27,4 @@ This project was created to practice basic frontend concepts and JavaScript logi
 3. Result will be displayed instantly
 
 ## 📸 Screenshot
-*(You can add a screenshot here later)*  
-```md
-(rps.jpeg)
+![Rock Paper Scissors Game](rps.jpeg)
